@@ -1,0 +1,27 @@
+user = {
+    fullname,
+    phonenumber,
+    email,
+    password,
+    role: user, agent, admin
+    status : pending, active, blocked,
+    balance: 
+}
+
+
+
+
+User actions 
+After getting activated by admin
+==> send money to user
+==> cash in by agent 
+==> cash out by agent
+
+
+Agent Actions 
+After getting activated by admin 
+==> manage cash in - requested by user
+==> manage cash out - requested by user
+
+
+admin actions
